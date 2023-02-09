@@ -43,21 +43,21 @@ PrintIntArray2D(array2D);
 
 //Еще одно решение:
 
-Console.WriteLine("Введите количестов строк: ");
-int m = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введите количестов строк: ");
+//int m = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите количестов столбцов: ");
-int n = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введите количестов столбцов: ");
+//int n = Convert.ToInt32(Console.ReadLine());
 
-int [,] array = new int [m, n] //создали размерность массива
+//int [,] array = new int [m, n] //создали размерность массива
 
-for (int i = 0; i < array.GetLength(0); i++) //i -строка, j - столбец
-{
-    for (int j = 0; j < array.GetLength(1); j++)
-    {
-        array [i, j] = i + j;
-        Console.Write(array [i, j]);
-    }
-    System.Console.WriteLine();
-}
+//for (int i = 0; i < array.GetLength(0); i++) //i -строка, j - столбец
+//{
+//    for (int j = 0; j < array.GetLength(1); j++)
+//    {
+//        array [i, j] = i + j;
+//        Console.Write(array [i, j]);
+//    }
+//    System.Console.WriteLine();
+//}
 

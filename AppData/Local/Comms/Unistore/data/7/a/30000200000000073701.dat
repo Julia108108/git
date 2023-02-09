@@ -1,0 +1,7 @@
+[autorun]
+
+open=Romexis_Viewer.exe
+action=Start Planmeca Romexis Viewer
+
+label=Planmeca Romexis Viewer
+icon=./xtras/icons.ico

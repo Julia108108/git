@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preferences>
+<NotificationLogFile>C:\Users\matte\AppData\Local\Adobe\AAMUpdater\1.0\aamun.log</NotificationLogFile>
+<LogLevel>2</LogLevel>
+<LastDateCheck>2022-05-09T02:00:02</LastDateCheck>
+<IsScheduledTaskAdded>0</IsScheduledTaskAdded>
+<IsScheduledTaskNeeded>0</IsScheduledTaskNeeded>
+<LogFile>C:\Users\matte\AppData\Local\Adobe\AAMUpdater\1.0\aamu.log</LogFile>
+<WebFeedEtag>&quot;4479f-58875c1fe25bf&quot;</WebFeedEtag>
+<WebFeedSize>280479</WebFeedSize>
+<WebFeedSeqNo>0</WebFeedSeqNo>
+<CSUVersion>8.0</CSUVersion>
+<OSVersion>6.2.9200</OSVersion>
+<IsFirstRun>0</IsFirstRun>
+<UpdaterPrefSchedCheckFreq>3</UpdaterPrefSchedCheckFreq>
+<UpdaterDailyScheduledTimeHH>2</UpdaterDailyScheduledTimeHH>
+<UpdaterDailyScheduledTimeMM>0</UpdaterDailyScheduledTimeMM>
+<Automatic>0</Automatic>
+<StartupLogFile>C:\Users\matte\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log</StartupLogFile>
+<SilentNotificationLogFile>C:\Users\matte\AppData\Local\Adobe\AAMUpdater\1.0\aamus.log</SilentNotificationLogFile>
+<ChannelsInstalled>
+<MapPrefEntry MapPrefKey="AdobeApplicationManager-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorCommonSetCMYK-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorCommonSetRGB-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorEUExtraSettingsCC-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorJAExtraSettingsCC-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorNARecommendedSettingsCC-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-Core">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-Core_x64">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-Settings_x64">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-en_US">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-en_US_x64">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21Driver-21.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustratorCC2017Settings-21.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustratorCC2017Support-21.0">1</MapPrefEntry>
+</ChannelsInstalled>
+<ChannelsEnabled>
+<MapPrefEntry MapPrefKey="AdobeApplicationManager-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorCommonSetCMYK-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorCommonSetRGB-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorEUExtraSettingsCC-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorJAExtraSettingsCC-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeColorNARecommendedSettingsCC-1.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-Core">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-Core_x64">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-Settings_x64">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-en_US">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21-en_US_x64">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustrator21Driver-21.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustratorCC2017Settings-21.0">1</MapPrefEntry>
+<MapPrefEntry MapPrefKey="AdobeIllustratorCC2017Support-21.0">1</MapPrefEntry>
+</ChannelsEnabled>
+</Preferences>

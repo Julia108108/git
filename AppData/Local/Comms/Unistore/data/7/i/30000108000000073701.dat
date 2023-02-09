@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body style="font-size:14px;
+display:inline-block; border:1px dashed
+#ccc; padding:1ch; margin:1ch;">
+<pre style="font-family:monospace
+!important;">
+ОООСТАРТ
+
+КАССОВЫЙ ЧЕК/ПРИХОД
+РН ККТ: 0001714176001221 25.02.2019 21:36
+НОМЕР АВТОМАТА: 10295838
+ЗН ККТ: 00000000381006967014
+СМЕНА: 000017 ЧЕК: 000001310
+
+ФН: 8710000101561708
+Cайт ОФД: nalog.ru
+
+Агент: ОООСТАРТ
+ИНН агента: 7704374580
+Адрес агента: г.Москва, ул. Поварская,
+д.31/29, пом.VI, комн.13, Офис
+
+Поставщик: ООО "ДИВАН.РУ"
+ИНН: 7725277348
+Оплата по заказу: 110610-54988
+Принято банковской картой: 7365,00 руб.
+Комиссия: 0,00 руб.
+К зачислению: 7365,00 руб.
+
+Сайт поставщика: www.divan.ru
+Эл.почта покупателя: matterfixed@gmail.com
+
+******************************************
+Техническая поддержка: +7 495 660-39-20
+******************************************
+
+ИТОГ: 7365,00 руб.
+
+СНО: ОСН
+ФД:41552 ФП:2327284099</pre>
+
+    <img id="qr"
+src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUwAAAFMAQMAAACaoBccAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACfElEQVRoge2a23HrMAxE0QlLUWlSaSxFJbgDXGIXkOyJ5kZ04o/MLCwrDx37wwCXC8hmCsWfCmeY2+q+rZvZ2hfH0c0arz6ETqN5xr82Wwc9MFt8nAa6x9Um9A2UCRixJm5LfPzj5HvbRxJ2oe+jYAon6LsJ/Ska7BoH0YhF6E/QOodajBRsrOyIAe74KXQeZcQWt+WjL/lAAiKETqMVDs1AZVOIR2n7blch9AYakgHVQKzxgoVaHH83qsZD6CxqWdlQYqixwTsgEaEYzY9MCP0Yaqe6sOFY8PrexkYIqyF0Gq0F4CkvAWINRM+RORA6j6a8GFwG67ufld2QC6HzKFuN+GUjix2xxyW64v3JvQm9jRI7dsOXdgM5qFQJnUTBjTRshfaj30ghbg+hs6gfcAQKu9eYrNU4x4TOoiztONZMAjY37HERUOOH0GkUJLY4JmAUN2t7cY5yjmmO0M+gbke2cjPc0ET3fBusBBM6j7KHqyTUMiC35yF0Fi1PnEOfwebQB7bYy8AJnUSPHq4yQNrDbJTJEPoOytsVRusWcGcOhsvg0OG8ISz0Nlr2jSwOWuKnPU7oPEpDbNltWLpiaHHUd9jiwzoInUBzi4snx49W5NfGROhttCYOJFHeach4g21/2Q2FfgA9emi6jPIZsQJGthDnmwq9jVaUanstgYVQexJ4ofdRfsrOLo7tsXE80WGIo64vv+sg9P9onlMxEJg59JAMO1s4oZMoE2CcUm7hignHxOFFMYS+gVKDMSnrrOzF0xVff51P6G105RNYx0gH5uEqBUK/RfPs1OHQDToyaLE9iYbQGbS2uIgtfVlPzbBr6yD0V1GF4s/EP4F29XW4shRlAAAAAElFTkSuQmCC"
+style="display:block !important; width:50%
+!important; margin:1ch auto !important;"/>
+
+</body>
+</html>

@@ -1,0 +1,3766 @@
+%!Adobe-FontList 1.23
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AppleGothic
+FamilyName:AppleGothic
+FullName:AppleGothic
+MenuName:AppleGothic
+StyleBits:0
+FamilyNameNative:AppleGothic
+StyleNameNative:
+FullNameNative:AppleGothic 
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\AppleGothic
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3609
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AppleMyungjo
+FamilyName:AppleMyungjo
+FullName:AppleMyungjo
+MenuName:AppleMyungjo
+StyleBits:0
+FamilyNameNative:AppleMyungjo
+StyleNameNative:
+FullNameNative:AppleMyungjo 
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\AppleMyungjo
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3619
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Beijing
+FamilyName:Beijing
+FullName:Beijing
+MenuName:Beijing
+StyleBits:0
+FamilyNameNative:Beijing
+StyleNameNative:
+FullNameNative:Beijing 
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Beijing
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87063
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:DFKaiShu-SB-Estd-BF
+FamilyName:DFKaiShu
+StyleName:SB Estd BF
+FullName:DFKaiShu-SB-Estd-BF
+MenuName:DFKaiShu-SB-Estd-BF
+StyleBits:0
+FamilyNameNative:DFKaiShu-SB-Estd-BF
+StyleNameNative:SB Estd BF
+FullNameNative:DFKaiShu-SB-Estd-BF SB Estd BF
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\DFKaiShu-SB-Estd-BF
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3614
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:FutoGoB101-Bold
+FamilyName:FutoGoB101
+StyleName:Bold
+FullName:FutoGoB101-Bold
+MenuName:FutoGoB101
+StyleBits:0
+FamilyNameNative:FutoGoB101
+StyleNameNative:Bold
+FullNameNative:FutoGoB101 Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\FutoGoB101-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111836
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:FutoMinA101-Bold
+FamilyName:FutoMinA101
+StyleName:Bold
+FullName:FutoMinA101-Bold
+MenuName:FutoMinA101
+StyleBits:0
+FamilyNameNative:FutoMinA101
+StyleNameNative:Bold
+FullNameNative:FutoMinA101 Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\FutoMinA101-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111837
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:GothicBBB-Medium
+FamilyName:GothicBBB
+StyleName:Medium
+FullName:GothicBBB-Medium
+MenuName:GothicBBB
+StyleBits:0
+FamilyNameNative:GothicBBB
+StyleNameNative:Medium
+FullNameNative:GothicBBB Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\GothicBBB-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111858
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:GothicMB101-Bold
+FamilyName:GothicMB101
+StyleName:Bold
+FullName:GothicMB101-Bold
+MenuName:GothicMB101
+StyleBits:0
+FamilyNameNative:GothicMB101
+StyleNameNative:Bold
+FullNameNative:GothicMB101 Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\GothicMB101-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111841
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:GothicMB101-Ult
+FamilyName:GothicMB101
+StyleName:Ult
+FullName:GothicMB101-Ult
+MenuName:GothicMB101
+StyleBits:0
+FamilyNameNative:GothicMB101
+StyleNameNative:Ult
+FullNameNative:GothicMB101 Ult
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\GothicMB101-Ult
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111736
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:GothicMB101-hea
+FamilyName:GothicMB101
+StyleName:hea
+FullName:GothicMB101-hea
+MenuName:GothicMB101
+StyleBits:0
+FamilyNameNative:GothicMB101
+StyleNameNative:hea
+FullNameNative:GothicMB101 hea
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\GothicMB101-hea
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111775
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HYGoThic-Medium
+FamilyName:HYGoThic
+StyleName:Medium
+FullName:HYGoThic Medium
+MenuName:HY중고딕
+StyleBits:0
+FamilyNameNative:HY중고딕
+StyleNameNative:Medium
+FullNameNative:HY중고딕 Medium
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HYGoThic-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213534
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HYGungSo-Bold
+FamilyName:HYGungSo
+StyleName:Bold
+FullName:HYGungSo Bold
+MenuName:HY궁서B
+StyleBits:0
+FamilyNameNative:HY궁서B
+StyleNameNative:Bold
+FullNameNative:HY궁서B Bold
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HYGungSo-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213063
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HYKHeadLine-Bold
+FamilyName:HYKHeadLine
+StyleName:Bold
+FullName:HYKHeadLine Bold
+MenuName:HY각헤드라인
+StyleBits:0
+FamilyNameNative:HY각헤드라인
+StyleNameNative:Bold
+FullNameNative:HY각헤드라인 Bold
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HYKHeadLine-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178710
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HYKHeadLine-Medium
+FamilyName:HYKHeadLine
+StyleName:Medium
+FullName:HYKHeadLine Medium
+MenuName:HY각헤드라인
+StyleBits:0
+FamilyNameNative:HY각헤드라인
+StyleNameNative:Medium
+FullNameNative:HY각헤드라인 Medium
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HYKHeadLine-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179565
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HYRGoThic-Medium
+FamilyName:HYRGoThic
+StyleName:Medium
+FullName:HYRGoThic Medium
+MenuName:HY둥근고딕
+StyleBits:0
+FamilyNameNative:HY둥근고딕
+StyleNameNative:Medium
+FullNameNative:HY둥근고딕 Medium
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HYRGoThic-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:212773
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HYSMyeongJo-Medium
+FamilyName:Hanyang SMyeongJo
+StyleName:Medium
+FullName:Hanyang SMyeongJo Medium
+MenuName:Hanyang SMyeongJo
+StyleBits:0
+FamilyNameNative:Hanyang SMyeongJo
+StyleNameNative:Medium
+FullNameNative:Hanyang SMyeongJo Medium
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HYSMyeongJo-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213917
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiKakuGo-W3
+FamilyName:HeiseiKakuGo
+StyleName:W3
+FullName:HeiseiKakuGo-W3
+MenuName:HeiseiKakuGo
+StyleBits:0
+FamilyNameNative:HeiseiKakuGo
+StyleNameNative:W3
+FullNameNative:HeiseiKakuGo W3
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiKakuGo-W3
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107877
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiKakuGo-W5
+FamilyName:HeiseiKakuGo
+StyleName:W5
+FullName:HeiseiKakuGo-W5
+MenuName:HeiseiKakuGo
+StyleBits:0
+FamilyNameNative:HeiseiKakuGo
+StyleNameNative:W5
+FullNameNative:HeiseiKakuGo W5
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiKakuGo-W5
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111810
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiKakuGo-W7
+FamilyName:HeiseiKakuGo
+StyleName:W7
+FullName:HeiseiKakuGo-W7
+MenuName:HeiseiKakuGo
+StyleBits:0
+FamilyNameNative:HeiseiKakuGo
+StyleNameNative:W7
+FullNameNative:HeiseiKakuGo W7
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiKakuGo-W7
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107787
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiKakuGo-W9
+FamilyName:HeiseiKakuGo
+StyleName:W9
+FullName:HeiseiKakuGo-W9
+MenuName:HeiseiKakuGo
+StyleBits:0
+FamilyNameNative:HeiseiKakuGo
+StyleNameNative:W9
+FullNameNative:HeiseiKakuGo W9
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiKakuGo-W9
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107763
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiMaruGo-W4
+FamilyName:HeiseiMaruGo
+StyleName:W4
+FullName:HeiseiMaruGo-W4
+MenuName:HeiseiMaruGo
+StyleBits:0
+FamilyNameNative:HeiseiMaruGo
+StyleNameNative:W4
+FullNameNative:HeiseiMaruGo W4
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiMaruGo-W4
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107766
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiMin-W3
+FamilyName:HeiseiMin
+StyleName:W3
+FullName:HeiseiMin-W3
+MenuName:HeiseiMin
+StyleBits:0
+FamilyNameNative:HeiseiMin
+StyleNameNative:W3
+FullNameNative:HeiseiMin W3
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiMin-W3
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111776
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiMin-W3H
+FamilyName:HeiseiMin
+StyleName:W3H
+FullName:HeiseiMin-W3H
+MenuName:HeiseiMin
+StyleBits:0
+FamilyNameNative:HeiseiMin
+StyleNameNative:W3H
+FullNameNative:HeiseiMin W3H
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiMin-W3H
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72767
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiMin-W5
+FamilyName:HeiseiMin
+StyleName:W5
+FullName:HeiseiMin-W5
+MenuName:HeiseiMin
+StyleBits:0
+FamilyNameNative:HeiseiMin
+StyleNameNative:W5
+FullNameNative:HeiseiMin W5
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiMin-W5
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107755
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiMin-W7
+FamilyName:HeiseiMin
+StyleName:W7
+FullName:HeiseiMin-W7
+MenuName:HeiseiMin
+StyleBits:0
+FamilyNameNative:HeiseiMin
+StyleNameNative:W7
+FullNameNative:HeiseiMin W7
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiMin-W7
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107730
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HeiseiMin-W9
+FamilyName:HeiseiMin
+StyleName:W9
+FullName:HeiseiMin-W9
+MenuName:HeiseiMin
+StyleBits:0
+FamilyNameNative:HeiseiMin
+StyleNameNative:W9
+FullNameNative:HeiseiMin W9
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HeiseiMin-W9
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:107728
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:HonMincho-M
+FamilyName:HonMincho
+StyleName:M
+FullName:HonMincho-M
+MenuName:HonMincho-M
+StyleBits:0
+FamilyNameNative:HonMincho-M
+StyleNameNative:M
+FullNameNative:HonMincho-M M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\HonMincho-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:9465
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:JCfg
+FamilyName:JCfg
+FullName:JCfg
+MenuName:JCfg
+StyleBits:0
+FamilyNameNative:JCfg
+StyleNameNative:
+FullNameNative:JCfg 
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\JCfg
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3577
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:JCkg
+FamilyName:JCkg
+FullName:JCkg
+MenuName:JCkg
+StyleBits:0
+FamilyNameNative:JCkg
+StyleNameNative:
+FullNameNative:JCkg 
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\JCkg
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3577
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Jun101-Light
+FamilyName:Jun101
+StyleName:Light
+FullName:Jun101-Light
+MenuName:Jun101
+StyleBits:0
+FamilyNameNative:Jun101
+StyleNameNative:Light
+FullNameNative:Jun101 Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Jun101-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111805
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Jun34-Medium
+FamilyName:Jun34
+StyleName:Medium
+FullName:Jun34-Medium
+MenuName:Jun34
+StyleBits:0
+FamilyNameNative:Jun34
+StyleNameNative:Medium
+FullNameNative:Jun34 Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Jun34-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111759
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Jun501-Bold
+FamilyName:Jun501
+StyleName:Bold
+FullName:Jun501-Bold
+MenuName:Jun501
+StyleBits:0
+FamilyNameNative:Jun501
+StyleNameNative:Bold
+FullNameNative:Jun501 Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Jun501-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111728
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMin-Bold
+FamilyName:Kozuka Mincho
+StyleName:Bold
+FullName:Kozuka Mincho Bold
+MenuName:Kozuka Mincho
+StyleBits:0
+FamilyNameNative:Kozuka Mincho
+StyleNameNative:Bold
+FullNameNative:Kozuka Mincho Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KozMin-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111754
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMin-ExtraLight
+FamilyName:Kozuka Mincho
+StyleName:Extra Light
+FullName:Kozuka Mincho Extra Light
+MenuName:Kozuka Mincho
+StyleBits:0
+FamilyNameNative:Kozuka Mincho
+StyleNameNative:Extra Light
+FullNameNative:Kozuka Mincho Extra Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KozMin-ExtraLight
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111857
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMin-Heavy
+FamilyName:Kozuka Mincho
+StyleName:Heavy
+FullName:Kozuka Mincho Heavy
+MenuName:Kozuka Mincho
+StyleBits:0
+FamilyNameNative:Kozuka Mincho
+StyleNameNative:Heavy
+FullNameNative:Kozuka Mincho Heavy
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KozMin-Heavy
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111759
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMin-Light
+FamilyName:Kozuka Mincho
+StyleName:Light
+FullName:Kozuka Mincho Light
+MenuName:Kozuka Mincho
+StyleBits:0
+FamilyNameNative:Kozuka Mincho
+StyleNameNative:Light
+FullNameNative:Kozuka Mincho Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KozMin-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111784
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMin-Medium
+FamilyName:Kozuka Mincho
+StyleName:Medium
+FullName:Kozuka Mincho Medium
+MenuName:Kozuka Mincho
+StyleBits:0
+FamilyNameNative:Kozuka Mincho
+StyleNameNative:Medium
+FullNameNative:Kozuka Mincho Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KozMin-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111783
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMin-Regular
+FamilyName:Kozuka Mincho
+StyleName:Regular
+FullName:Kozuka Mincho Regular
+MenuName:Kozuka Mincho
+StyleBits:0
+FamilyNameNative:Kozuka Mincho
+StyleNameNative:Regular
+FullNameNative:Kozuka Mincho Regular
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KozMin-Regular
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111806
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KyokaICA-Light
+FamilyName:KyokaICA
+StyleName:Light
+FullName:KyokaICA-Light
+MenuName:KyokaICA
+StyleBits:0
+FamilyNameNative:KyokaICA
+StyleNameNative:Light
+FullNameNative:KyokaICA Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KyokaICA-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:112017
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KyokaICA-Medium
+FamilyName:KyokaICA
+StyleName:Medium
+FullName:KyokaICA-Medium
+MenuName:KyokaICA
+StyleBits:0
+FamilyNameNative:KyokaICA
+StyleNameNative:Medium
+FullNameNative:KyokaICA Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KyokaICA-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111956
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KyokaICA-regular
+FamilyName:KyokaICA
+StyleName:regular
+FullName:KyokaICA-regular
+MenuName:KyokaICA
+StyleBits:0
+FamilyNameNative:KyokaICA
+StyleNameNative:regular
+FullNameNative:KyokaICA regular
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\KyokaICA-regular
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111973
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LiGothicMed
+FamilyName:LiGothicMed
+FullName:LiGothicMed
+MenuName:LiGothicMed
+StyleBits:0
+FamilyNameNative:LiGothicMed
+StyleNameNative:
+FullNameNative:LiGothicMed 
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LiGothicMed
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3576
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LiSungLight
+FamilyName:LiSung
+StyleName:Light
+FullName:LiSungLight
+MenuName:LiSungLight
+StyleBits:0
+FamilyNameNative:LiSungLight
+StyleNameNative:Light
+FullNameNative:LiSungLight Light
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LiSungLight
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3574
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoArl-Bold
+FamilyName:LogoArl
+StyleName:Bold
+FullName:LogoArl-Bold
+MenuName:LogoArl
+StyleBits:0
+FamilyNameNative:LogoArl
+StyleNameNative:Bold
+FullNameNative:LogoArl Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoArl-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45046
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoArl-Light
+FamilyName:LogoArl
+StyleName:Light
+FullName:LogoArl-Light
+MenuName:LogoArl
+StyleBits:0
+FamilyNameNative:LogoArl
+StyleNameNative:Light
+FullNameNative:LogoArl Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoArl-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45060
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoArl-Medium
+FamilyName:LogoArl
+StyleName:Medium
+FullName:LogoArl-Medium
+MenuName:LogoArl
+StyleBits:0
+FamilyNameNative:LogoArl
+StyleNameNative:Medium
+FullNameNative:LogoArl Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoArl-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45070
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoArl-Ultra
+FamilyName:LogoArl
+StyleName:Ultra
+FullName:LogoArl-Ultra
+MenuName:LogoArl
+StyleBits:0
+FamilyNameNative:LogoArl
+StyleNameNative:Ultra
+FullNameNative:LogoArl Ultra
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoArl-Ultra
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45046
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoCut-Bold
+FamilyName:LogoCut
+StyleName:Bold
+FullName:LogoCut-Bold
+MenuName:LogoCut
+StyleBits:0
+FamilyNameNative:LogoCut
+StyleNameNative:Bold
+FullNameNative:LogoCut Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoCut-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45047
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoCut-Light
+FamilyName:LogoCut
+StyleName:Light
+FullName:LogoCut-Light
+MenuName:LogoCut
+StyleBits:0
+FamilyNameNative:LogoCut
+StyleNameNative:Light
+FullNameNative:LogoCut Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoCut-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45061
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoCut-Medium
+FamilyName:LogoCut
+StyleName:Medium
+FullName:LogoCut-Medium
+MenuName:LogoCut
+StyleBits:0
+FamilyNameNative:LogoCut
+StyleNameNative:Medium
+FullNameNative:LogoCut Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoCut-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45072
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoCut-Ultra
+FamilyName:LogoCut
+StyleName:Ultra
+FullName:LogoCut-Ultra
+MenuName:LogoCut
+StyleBits:0
+FamilyNameNative:LogoCut
+StyleNameNative:Ultra
+FullNameNative:LogoCut Ultra
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoCut-Ultra
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45048
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoLine-Bold
+FamilyName:LogoLine
+StyleName:Bold
+FullName:LogoLine-Bold
+MenuName:LogoLine
+StyleBits:0
+FamilyNameNative:LogoLine
+StyleNameNative:Bold
+FullNameNative:LogoLine Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoLine-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45055
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoLine-Light
+FamilyName:LogoLine
+StyleName:Light
+FullName:LogoLine-Light
+MenuName:LogoLine
+StyleBits:0
+FamilyNameNative:LogoLine
+StyleNameNative:Light
+FullNameNative:LogoLine Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoLine-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45071
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoLine-Medium
+FamilyName:LogoLine
+StyleName:Medium
+FullName:LogoLine-Medium
+MenuName:LogoLine
+StyleBits:0
+FamilyNameNative:LogoLine
+StyleNameNative:Medium
+FullNameNative:LogoLine Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoLine-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45079
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:LogoLine-Ultra
+FamilyName:LogoLine
+StyleName:Ultra
+FullName:LogoLine-Ultra
+MenuName:LogoLine
+StyleBits:0
+FamilyNameNative:LogoLine
+StyleNameNative:Ultra
+FullNameNative:LogoLine Ultra
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\LogoLine-Ultra
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45058
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:MHei-Medium
+FamilyName:Monotype Hei
+StyleName:Medium
+FullName:Monotype Hei Medium
+MenuName:Monotype Hei
+StyleBits:0
+FamilyNameNative:Monotype Hei
+StyleNameNative:Medium
+FullNameNative:Monotype Hei Medium
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\MHei-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:166291
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:MKai-Medium
+FamilyName:Monotype Kai
+StyleName:Medium
+FullName:Monotype Kai Medium
+MenuName:Monotype Kai
+StyleBits:0
+FamilyNameNative:Monotype Kai
+StyleNameNative:Medium
+FullNameNative:Monotype Kai Medium
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\MKai-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:168295
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:MSung-Light
+FamilyName:Monotype Sung
+StyleName:Light
+FullName:Monotype Sung Light
+MenuName:Monotype Sung
+StyleBits:0
+FamilyNameNative:Monotype Sung
+StyleNameNative:Light
+FullNameNative:Monotype Sung Light
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\MSung-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:166605
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:MSung-Medium
+FamilyName:Monotype Sung
+StyleName:Medium
+FullName:Monotype Sung Medium
+MenuName:Monotype Sung
+StyleBits:0
+FamilyNameNative:Monotype Sung
+StyleNameNative:Medium
+FullNameNative:Monotype Sung Medium
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\MSung-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:166416
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:MaruGothic-M
+FamilyName:MaruGothic
+StyleName:M
+FullName:MaruGothic-M
+MenuName:MaruGothic-M
+StyleBits:0
+FamilyNameNative:MaruGothic-M
+StyleNameNative:M
+FullNameNative:MaruGothic-M M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\MaruGothic-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:9470
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:MidashiGo-MB31
+FamilyName:MidashiGo
+StyleName:MB31
+FullName:MidashiGo-MB31
+MenuName:MidashiGo
+StyleBits:0
+FamilyNameNative:MidashiGo
+StyleNameNative:MB31
+FullNameNative:MidashiGo MB31
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\MidashiGo-MB31
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111930
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:MidashiMin-MA31
+FamilyName:MidashiMin
+StyleName:MA31
+FullName:MidashiMin-MA31
+MenuName:MidashiMin
+StyleBits:0
+FamilyNameNative:MidashiMin
+StyleNameNative:MA31
+FullNameNative:MidashiMin MA31
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\MidashiMin-MA31
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111848
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Munhwa-Regular
+FamilyName:Munhwa
+StyleName:Regular
+FullName:Munhwa Regular
+MenuName:Munhwa
+StyleBits:0
+FamilyNameNative:Munhwa
+StyleNameNative:Regular
+FullNameNative:Munhwa Regular
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Munhwa-Regular
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62798
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:MunhwaGothic-Regular
+FamilyName:Munhwa Gothic
+StyleName:Regular
+FullName:Munhwa Gothic Regular
+MenuName:Munhwa Gothic
+StyleBits:0
+FamilyNameNative:Munhwa Gothic
+StyleNameNative:Regular
+FullNameNative:Munhwa Gothic Regular
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\MunhwaGothic-Regular
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62962
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Osaka
+FamilyName:Osaka
+FullName:Osaka
+MenuName:Osaka
+StyleBits:0
+FamilyNameNative:Osaka
+StyleNameNative:
+FullNameNative:Osaka 
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Osaka
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:9435
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Osaka-Mono
+FamilyName:Osaka
+StyleName:Mono
+FullName:Osaka-Mono
+MenuName:Osaka-Mono
+StyleBits:0
+FamilyNameNative:Osaka-Mono
+StyleNameNative:Mono
+FullNameNative:Osaka-Mono Mono
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Osaka-Mono
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:9460
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Ryumin-Bold
+FamilyName:Ryumin
+StyleName:Bold
+FullName:Ryumin-Bold
+MenuName:Ryumin
+StyleBits:0
+FamilyNameNative:Ryumin
+StyleNameNative:Bold
+FullNameNative:Ryumin Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Ryumin-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111770
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Ryumin-Light
+FamilyName:Ryumin
+StyleName:Light
+FullName:Ryumin-Light
+MenuName:Ryumin
+StyleBits:0
+FamilyNameNative:Ryumin
+StyleNameNative:Light
+FullNameNative:Ryumin Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Ryumin-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111921
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Ryumin-Medium
+FamilyName:Ryumin
+StyleName:Medium
+FullName:Ryumin-Medium
+MenuName:Ryumin
+StyleBits:0
+FamilyNameNative:Ryumin
+StyleNameNative:Medium
+FullNameNative:Ryumin Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Ryumin-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111859
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Ryumin-Ultra
+FamilyName:Ryumin
+StyleName:Ultra
+FullName:Ryumin-Ultra
+MenuName:Ryumin
+StyleBits:0
+FamilyNameNative:Ryumin
+StyleNameNative:Ultra
+FullNameNative:Ryumin Ultra
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Ryumin-Ultra
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111731
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Ryumin-heavy
+FamilyName:Ryumin
+StyleName:heavy
+FullName:Ryumin-heavy
+MenuName:Ryumin
+StyleBits:0
+FamilyNameNative:Ryumin
+StyleNameNative:heavy
+FullNameNative:Ryumin heavy
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Ryumin-heavy
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111769
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Ryumin-regular
+FamilyName:Ryumin
+StyleName:regular
+FullName:Ryumin-regular
+MenuName:Ryumin
+StyleBits:0
+FamilyNameNative:Ryumin
+StyleNameNative:regular
+FullNameNative:Ryumin regular
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Ryumin-regular
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111948
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SIL-FangSong-
+FamilyName:SIL
+StyleName:FangSong 
+FullName:SIL-FangSong-
+MenuName:SIL-FangSong-
+StyleBits:0
+FamilyNameNative:SIL-FangSong-
+StyleNameNative:FangSong 
+FullNameNative:SIL-FangSong- FangSong 
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SIL-FangSong-
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87091
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SIL-FangSong-Reg-Jian
+FamilyName:SIL
+StyleName:FangSong Reg Jian
+FullName:SIL-FangSong-Reg-Jian
+MenuName:SIL-FangSong-Reg-Jian
+StyleBits:0
+FamilyNameNative:SIL-FangSong-Reg-Jian
+StyleNameNative:FangSong Reg Jian
+FullNameNative:SIL-FangSong-Reg-Jian FangSong Reg Jian
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SIL-FangSong-Reg-Jian
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87131
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SIL-Hei-Med-Jian
+FamilyName:SIL
+StyleName:Hei Med Jian
+FullName:SIL-Hei-Med-Jian
+MenuName:SIL-Hei-Med-Jian
+StyleBits:0
+FamilyNameNative:SIL-Hei-Med-Jian
+StyleNameNative:Hei Med Jian
+FullNameNative:SIL-Hei-Med-Jian Hei Med Jian
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SIL-Hei-Med-Jian
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87104
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SIL-Kai-
+FamilyName:SIL
+StyleName:Kai 
+FullName:SIL-Kai-
+MenuName:SIL-Kai-
+StyleBits:0
+FamilyNameNative:SIL-Kai-
+StyleNameNative:Kai 
+FullNameNative:SIL-Kai- Kai 
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SIL-Kai-
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87066
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SIL-Kai-Reg-Jian
+FamilyName:SIL
+StyleName:Kai Reg Jian
+FullName:SIL-Kai-Reg-Jian
+MenuName:SIL-Kai-Reg-Jian
+StyleBits:0
+FamilyNameNative:SIL-Kai-Reg-Jian
+StyleNameNative:Kai Reg Jian
+FullNameNative:SIL-Kai-Reg-Jian Kai Reg Jian
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SIL-Kai-Reg-Jian
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87106
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SIL-Song-Reg-Jian
+FamilyName:SIL
+StyleName:Song Reg Jian
+FullName:SIL-Song-Reg-Jian
+MenuName:SIL-Song-Reg-Jian
+StyleBits:0
+FamilyNameNative:SIL-Song-Reg-Jian
+StyleNameNative:Song Reg Jian
+FullNameNative:SIL-Song-Reg-Jian Song Reg Jian
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SIL-Song-Reg-Jian
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:87111
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SMGothic-Bold
+FamilyName:SoftMagic Gothic
+StyleName:Bold
+FullName:SoftMagic Gothic Bold
+MenuName:SoftMagic Gothic
+StyleBits:0
+FamilyNameNative:SoftMagic Gothic
+StyleNameNative:Bold
+FullNameNative:SoftMagic Gothic Bold
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SMGothic-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:214343
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SMGothic-DemiBold
+FamilyName:SoftMagic Gothic
+StyleName:DemiBold
+FullName:SoftMagic Gothic DemiBold
+MenuName:SoftMagic Gothic
+StyleBits:0
+FamilyNameNative:SoftMagic Gothic
+StyleNameNative:DemiBold
+FullNameNative:SoftMagic Gothic DemiBold
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SMGothic-DemiBold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:214591
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SMGothic-Light
+FamilyName:SoftMagic Gothic
+StyleName:Light
+FullName:SoftMagic Gothic Light
+MenuName:SoftMagic Gothic
+StyleBits:0
+FamilyNameNative:SoftMagic Gothic
+StyleNameNative:Light
+FullNameNative:SoftMagic Gothic Light
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SMGothic-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213864
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SMGothic-Medium
+FamilyName:SoftMagic Gothic
+StyleName:Medium
+FullName:SoftMagic Gothic Medium
+MenuName:SoftMagic Gothic
+StyleBits:0
+FamilyNameNative:SoftMagic Gothic
+StyleNameNative:Medium
+FullNameNative:SoftMagic Gothic Medium
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SMGothic-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:214687
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SMMyungjo-Bold
+FamilyName:SoftMagic Myungjo
+StyleName:Bold
+FullName:SoftMagic Myungjo Bold
+MenuName:SoftMagic Myungjo
+StyleBits:0
+FamilyNameNative:SoftMagic Myungjo
+StyleNameNative:Bold
+FullNameNative:SoftMagic Myungjo Bold
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SMMyungjo-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213235
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SMMyungjo-DemiBold
+FamilyName:SoftMagic Myungjo
+StyleName:DemiBold
+FullName:SoftMagic Myungjo DemiBold
+MenuName:SoftMagic Myungjo
+StyleBits:0
+FamilyNameNative:SoftMagic Myungjo
+StyleNameNative:DemiBold
+FullNameNative:SoftMagic Myungjo DemiBold
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SMMyungjo-DemiBold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:212944
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SMMyungjo-Light
+FamilyName:SoftMagic Myungjo
+StyleName:Light
+FullName:SoftMagic Myungjo Light
+MenuName:SoftMagic Myungjo
+StyleBits:0
+FamilyNameNative:SoftMagic Myungjo
+StyleNameNative:Light
+FullNameNative:SoftMagic Myungjo Light
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SMMyungjo-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:214853
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:SMMyungjo-Medium
+FamilyName:SoftMagic Myungjo
+StyleName:Medium
+FullName:SoftMagic Myungjo Medium
+MenuName:SoftMagic Myungjo
+StyleBits:0
+FamilyNameNative:SoftMagic Myungjo
+StyleNameNative:Medium
+FullNameNative:SoftMagic Myungjo Medium
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\SMMyungjo-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213077
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:STFangsong-Light
+FamilyName:SinoType Fangsong
+StyleName:Light
+FullName:SinoType Fangsong Light
+MenuName:SinoType Fangsong
+StyleBits:0
+FamilyNameNative:SinoType Fangsong
+StyleNameNative:Light
+FullNameNative:SinoType Fangsong Light
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\STFangsong-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:121560
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:STHeiti-Regular
+FamilyName:SinoType Heiti
+StyleName:Regular
+FullName:SinoType Heiti Regular
+MenuName:SinoType Heiti
+StyleBits:0
+FamilyNameNative:SinoType Heiti
+StyleNameNative:Regular
+FullNameNative:SinoType Heiti Regular
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\STHeiti-Regular
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:120109
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:STKaiti-Regular
+FamilyName:SinoType Kaiti
+StyleName:Regular
+FullName:SinoType Kaiti Regular
+MenuName:SinoType Kaiti
+StyleBits:0
+FamilyNameNative:SinoType Kaiti
+StyleNameNative:Regular
+FullNameNative:SinoType Kaiti Regular
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\STKaiti-Regular
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:121650
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:STSong-Light
+FamilyName:SinoType Song
+StyleName:Light
+FullName:SinoType Song Light
+MenuName:SinoType Song
+StyleBits:0
+FamilyNameNative:SinoType Song
+StyleNameNative:Light
+FullNameNative:SinoType Song Light
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\STSong-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:256705
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Seoul
+FamilyName:Seoul
+FullName:Seoul
+MenuName:Seoul
+StyleBits:0
+FamilyNameNative:Seoul
+StyleNameNative:
+FullNameNative:Seoul 
+WritingScript:Korean
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Seoul
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3578
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGo-Bold
+FamilyName:ShinGo
+StyleName:Bold
+FullName:ShinGo-Bold
+MenuName:ShinGo
+StyleBits:0
+FamilyNameNative:ShinGo
+StyleNameNative:Bold
+FullNameNative:ShinGo Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\ShinGo-Bold
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111671
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGo-Light
+FamilyName:ShinGo
+StyleName:Light
+FullName:ShinGo-Light
+MenuName:ShinGo
+StyleBits:0
+FamilyNameNative:ShinGo
+StyleNameNative:Light
+FullNameNative:ShinGo Light
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\ShinGo-Light
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111706
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGo-Medium
+FamilyName:ShinGo
+StyleName:Medium
+FullName:ShinGo-Medium
+MenuName:ShinGo
+StyleBits:0
+FamilyNameNative:ShinGo
+StyleNameNative:Medium
+FullNameNative:ShinGo Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\ShinGo-Medium
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111709
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGo-Ultra
+FamilyName:ShinGo
+StyleName:Ultra
+FullName:ShinGo-Ultra
+MenuName:ShinGo
+StyleBits:0
+FamilyNameNative:ShinGo
+StyleNameNative:Ultra
+FullNameNative:ShinGo Ultra
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\ShinGo-Ultra
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111650
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGo-regular
+FamilyName:ShinGo
+StyleName:regular
+FullName:ShinGo-regular
+MenuName:ShinGo
+StyleBits:0
+FamilyNameNative:ShinGo
+StyleNameNative:regular
+FullNameNative:ShinGo regular
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\ShinGo-regular
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111797
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinseiKai-CBSK1
+FamilyName:ShinseiKai
+StyleName:CBSK1
+FullName:ShinseiKai-CBSK1
+MenuName:ShinseiKai
+StyleBits:0
+FamilyNameNative:ShinseiKai
+StyleNameNative:CBSK1
+FullNameNative:ShinseiKai CBSK1
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\ShinseiKai-CBSK1
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111956
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiG-B
+FamilyName:TBKomachiG
+StyleName:B
+FullName:TBKomachiG-B
+MenuName:TBKomachiG
+StyleBits:0
+FamilyNameNative:TBKomachiG
+StyleNameNative:B
+FullNameNative:TBKomachiG B
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiG-B
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45124
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiG-DB
+FamilyName:TBKomachiG
+StyleName:DB
+FullName:TBKomachiG-DB
+MenuName:TBKomachiG
+StyleBits:0
+FamilyNameNative:TBKomachiG
+StyleNameNative:DB
+FullNameNative:TBKomachiG DB
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiG-DB
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45180
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiG-E
+FamilyName:TBKomachiG
+StyleName:E
+FullName:TBKomachiG-E
+MenuName:TBKomachiG
+StyleBits:0
+FamilyNameNative:TBKomachiG
+StyleNameNative:E
+FullNameNative:TBKomachiG E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiG-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45120
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiG-M
+FamilyName:TBKomachiG
+StyleName:M
+FullName:TBKomachiG-M
+MenuName:TBKomachiG
+StyleBits:0
+FamilyNameNative:TBKomachiG
+StyleNameNative:M
+FullNameNative:TBKomachiG M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiG-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45164
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiG-R
+FamilyName:TBKomachiG
+StyleName:R
+FullName:TBKomachiG-R
+MenuName:TBKomachiG
+StyleBits:0
+FamilyNameNative:TBKomachiG
+StyleNameNative:R
+FullNameNative:TBKomachiG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45165
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiG-hv
+FamilyName:TBKomachiG
+StyleName:hv
+FullName:TBKomachiG-hv
+MenuName:TBKomachiG
+StyleBits:0
+FamilyNameNative:TBKomachiG
+StyleNameNative:hv
+FullNameNative:TBKomachiG hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiG-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45096
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiM-DE
+FamilyName:TBKomachiM
+StyleName:DE
+FullName:TBKomachiM-DE
+MenuName:TBKomachiM
+StyleBits:0
+FamilyNameNative:TBKomachiM
+StyleNameNative:DE
+FullNameNative:TBKomachiM DE
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiM-DE
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45144
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiM-E
+FamilyName:TBKomachiM
+StyleName:E
+FullName:TBKomachiM-E
+MenuName:TBKomachiM
+StyleBits:0
+FamilyNameNative:TBKomachiM
+StyleNameNative:E
+FullNameNative:TBKomachiM E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiM-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45134
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiM-M
+FamilyName:TBKomachiM
+StyleName:M
+FullName:TBKomachiM-M
+MenuName:TBKomachiM
+StyleBits:0
+FamilyNameNative:TBKomachiM
+StyleNameNative:M
+FullNameNative:TBKomachiM M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiM-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45137
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiM-hv
+FamilyName:TBKomachiM
+StyleName:hv
+FullName:TBKomachiM-hv
+MenuName:TBKomachiM
+StyleBits:0
+FamilyNameNative:TBKomachiM
+StyleNameNative:hv
+FullNameNative:TBKomachiM hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiM-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45125
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKomachiRG-R
+FamilyName:TBKomachiRG
+StyleName:R
+FullName:TBKomachiRG-R
+MenuName:TBKomachiRG
+StyleBits:0
+FamilyNameNative:TBKomachiRG
+StyleNameNative:R
+FullNameNative:TBKomachiRG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKomachiRG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45125
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenG-B
+FamilyName:TBKoudoukenG
+StyleName:B
+FullName:TBKoudoukenG-B
+MenuName:TBKoudoukenG
+StyleBits:0
+FamilyNameNative:TBKoudoukenG
+StyleNameNative:B
+FullNameNative:TBKoudoukenG B
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenG-B
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45149
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenG-DB
+FamilyName:TBKoudoukenG
+StyleName:DB
+FullName:TBKoudoukenG-DB
+MenuName:TBKoudoukenG
+StyleBits:0
+FamilyNameNative:TBKoudoukenG
+StyleNameNative:DB
+FullNameNative:TBKoudoukenG DB
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenG-DB
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45204
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenG-E
+FamilyName:TBKoudoukenG
+StyleName:E
+FullName:TBKoudoukenG-E
+MenuName:TBKoudoukenG
+StyleBits:0
+FamilyNameNative:TBKoudoukenG
+StyleNameNative:E
+FullNameNative:TBKoudoukenG E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenG-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45141
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenG-M
+FamilyName:TBKoudoukenG
+StyleName:M
+FullName:TBKoudoukenG-M
+MenuName:TBKoudoukenG
+StyleBits:0
+FamilyNameNative:TBKoudoukenG
+StyleNameNative:M
+FullNameNative:TBKoudoukenG M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenG-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45193
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenG-R
+FamilyName:TBKoudoukenG
+StyleName:R
+FullName:TBKoudoukenG-R
+MenuName:TBKoudoukenG
+StyleBits:0
+FamilyNameNative:TBKoudoukenG
+StyleNameNative:R
+FullNameNative:TBKoudoukenG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45195
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenG-hv
+FamilyName:TBKoudoukenG
+StyleName:hv
+FullName:TBKoudoukenG-hv
+MenuName:TBKoudoukenG
+StyleBits:0
+FamilyNameNative:TBKoudoukenG
+StyleNameNative:hv
+FullNameNative:TBKoudoukenG hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenG-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45123
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenM-DE
+FamilyName:TBKoudoukenM
+StyleName:DE
+FullName:TBKoudoukenM-DE
+MenuName:TBKoudoukenM
+StyleBits:0
+FamilyNameNative:TBKoudoukenM
+StyleNameNative:DE
+FullNameNative:TBKoudoukenM DE
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenM-DE
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45161
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenM-E
+FamilyName:TBKoudoukenM
+StyleName:E
+FullName:TBKoudoukenM-E
+MenuName:TBKoudoukenM
+StyleBits:0
+FamilyNameNative:TBKoudoukenM
+StyleNameNative:E
+FullNameNative:TBKoudoukenM E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenM-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45151
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenM-M
+FamilyName:TBKoudoukenM
+StyleName:M
+FullName:TBKoudoukenM-M
+MenuName:TBKoudoukenM
+StyleBits:0
+FamilyNameNative:TBKoudoukenM
+StyleNameNative:M
+FullNameNative:TBKoudoukenM M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenM-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45150
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenM-hv
+FamilyName:TBKoudoukenM
+StyleName:hv
+FullName:TBKoudoukenM-hv
+MenuName:TBKoudoukenM
+StyleBits:0
+FamilyNameNative:TBKoudoukenM
+StyleNameNative:hv
+FullNameNative:TBKoudoukenM hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenM-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45150
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBKoudoukenRG-R
+FamilyName:TBKoudoukenRG
+StyleName:R
+FullName:TBKoudoukenRG-R
+MenuName:TBKoudoukenRG
+StyleBits:0
+FamilyNameNative:TBKoudoukenRG
+StyleNameNative:R
+FullNameNative:TBKoudoukenRG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBKoudoukenRG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45155
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanG-B
+FamilyName:TBRyokanG
+StyleName:B
+FullName:TBRyokanG-B
+MenuName:TBRyokanG
+StyleBits:0
+FamilyNameNative:TBRyokanG
+StyleNameNative:B
+FullNameNative:TBRyokanG B
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanG-B
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45145
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanG-DB
+FamilyName:TBRyokanG
+StyleName:DB
+FullName:TBRyokanG-DB
+MenuName:TBRyokanG
+StyleBits:0
+FamilyNameNative:TBRyokanG
+StyleNameNative:DB
+FullNameNative:TBRyokanG DB
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanG-DB
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45204
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanG-E
+FamilyName:TBRyokanG
+StyleName:E
+FullName:TBRyokanG-E
+MenuName:TBRyokanG
+StyleBits:0
+FamilyNameNative:TBRyokanG
+StyleNameNative:E
+FullNameNative:TBRyokanG E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanG-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45139
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanG-M
+FamilyName:TBRyokanG
+StyleName:M
+FullName:TBRyokanG-M
+MenuName:TBRyokanG
+StyleBits:0
+FamilyNameNative:TBRyokanG
+StyleNameNative:M
+FullNameNative:TBRyokanG M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanG-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45185
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanG-R
+FamilyName:TBRyokanG
+StyleName:R
+FullName:TBRyokanG-R
+MenuName:TBRyokanG
+StyleBits:0
+FamilyNameNative:TBRyokanG
+StyleNameNative:R
+FullNameNative:TBRyokanG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45187
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanG-hv
+FamilyName:TBRyokanG
+StyleName:hv
+FullName:TBRyokanG-hv
+MenuName:TBRyokanG
+StyleBits:0
+FamilyNameNative:TBRyokanG
+StyleNameNative:hv
+FullNameNative:TBRyokanG hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanG-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45124
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanM-DE
+FamilyName:TBRyokanM
+StyleName:DE
+FullName:TBRyokanM-DE
+MenuName:TBRyokanM
+StyleBits:0
+FamilyNameNative:TBRyokanM
+StyleNameNative:DE
+FullNameNative:TBRyokanM DE
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanM-DE
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45151
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanM-E
+FamilyName:TBRyokanM
+StyleName:E
+FullName:TBRyokanM-E
+MenuName:TBRyokanM
+StyleBits:0
+FamilyNameNative:TBRyokanM
+StyleNameNative:E
+FullNameNative:TBRyokanM E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanM-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45136
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanM-M
+FamilyName:TBRyokanM
+StyleName:M
+FullName:TBRyokanM-M
+MenuName:TBRyokanM
+StyleBits:0
+FamilyNameNative:TBRyokanM
+StyleNameNative:M
+FullNameNative:TBRyokanM M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanM-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45134
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanM-hv
+FamilyName:TBRyokanM
+StyleName:hv
+FullName:TBRyokanM-hv
+MenuName:TBRyokanM
+StyleBits:0
+FamilyNameNative:TBRyokanM
+StyleNameNative:hv
+FullNameNative:TBRyokanM hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanM-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45132
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBRyokanRG-R
+FamilyName:TBRyokanRG
+StyleName:R
+FullName:TBRyokanRG-R
+MenuName:TBRyokanRG
+StyleBits:0
+FamilyNameNative:TBRyokanRG
+StyleNameNative:R
+FullNameNative:TBRyokanRG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBRyokanRG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45149
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiG-B
+FamilyName:TBTsukijiG
+StyleName:B
+FullName:TBTsukijiG-B
+MenuName:TBTsukijiG
+StyleBits:0
+FamilyNameNative:TBTsukijiG
+StyleNameNative:B
+FullNameNative:TBTsukijiG B
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiG-B
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45132
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiG-DB
+FamilyName:TBTsukijiG
+StyleName:DB
+FullName:TBTsukijiG-DB
+MenuName:TBTsukijiG
+StyleBits:0
+FamilyNameNative:TBTsukijiG
+StyleNameNative:DB
+FullNameNative:TBTsukijiG DB
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiG-DB
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45177
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiG-E
+FamilyName:TBTsukijiG
+StyleName:E
+FullName:TBTsukijiG-E
+MenuName:TBTsukijiG
+StyleBits:0
+FamilyNameNative:TBTsukijiG
+StyleNameNative:E
+FullNameNative:TBTsukijiG E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiG-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45114
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiG-M
+FamilyName:TBTsukijiG
+StyleName:M
+FullName:TBTsukijiG-M
+MenuName:TBTsukijiG
+StyleBits:0
+FamilyNameNative:TBTsukijiG
+StyleNameNative:M
+FullNameNative:TBTsukijiG M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiG-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45166
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiG-R
+FamilyName:TBTsukijiG
+StyleName:R
+FullName:TBTsukijiG-R
+MenuName:TBTsukijiG
+StyleBits:0
+FamilyNameNative:TBTsukijiG
+StyleNameNative:R
+FullNameNative:TBTsukijiG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45168
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiG-hv
+FamilyName:TBTsukijiG
+StyleName:hv
+FullName:TBTsukijiG-hv
+MenuName:TBTsukijiG
+StyleBits:0
+FamilyNameNative:TBTsukijiG
+StyleNameNative:hv
+FullNameNative:TBTsukijiG hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiG-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45094
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiM-DE
+FamilyName:TBTsukijiM
+StyleName:DE
+FullName:TBTsukijiM-DE
+MenuName:TBTsukijiM
+StyleBits:0
+FamilyNameNative:TBTsukijiM
+StyleNameNative:DE
+FullNameNative:TBTsukijiM DE
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiM-DE
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45136
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiM-E
+FamilyName:TBTsukijiM
+StyleName:E
+FullName:TBTsukijiM-E
+MenuName:TBTsukijiM
+StyleBits:0
+FamilyNameNative:TBTsukijiM
+StyleNameNative:E
+FullNameNative:TBTsukijiM E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiM-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45126
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiM-M
+FamilyName:TBTsukijiM
+StyleName:M
+FullName:TBTsukijiM-M
+MenuName:TBTsukijiM
+StyleBits:0
+FamilyNameNative:TBTsukijiM
+StyleNameNative:M
+FullNameNative:TBTsukijiM M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiM-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45121
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiM-hv
+FamilyName:TBTsukijiM
+StyleName:hv
+FullName:TBTsukijiM-hv
+MenuName:TBTsukijiM
+StyleBits:0
+FamilyNameNative:TBTsukijiM
+StyleNameNative:hv
+FullNameNative:TBTsukijiM hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiM-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45126
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBTsukijiRG-R
+FamilyName:TBTsukijiRG
+StyleName:R
+FullName:TBTsukijiRG-R
+MenuName:TBTsukijiRG
+StyleBits:0
+FamilyNameNative:TBTsukijiRG
+StyleNameNative:R
+FullNameNative:TBTsukijiRG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBTsukijiRG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45128
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariG-B
+FamilyName:TBYukinariG
+StyleName:B
+FullName:TBYukinariG-B
+MenuName:TBYukinariG
+StyleBits:0
+FamilyNameNative:TBYukinariG
+StyleNameNative:B
+FullNameNative:TBYukinariG B
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariG-B
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45142
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariG-DB
+FamilyName:TBYukinariG
+StyleName:DB
+FullName:TBYukinariG-DB
+MenuName:TBYukinariG
+StyleBits:0
+FamilyNameNative:TBYukinariG
+StyleNameNative:DB
+FullNameNative:TBYukinariG DB
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariG-DB
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45197
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariG-E
+FamilyName:TBYukinariG
+StyleName:E
+FullName:TBYukinariG-E
+MenuName:TBYukinariG
+StyleBits:0
+FamilyNameNative:TBYukinariG
+StyleNameNative:E
+FullNameNative:TBYukinariG E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariG-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45134
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariG-M
+FamilyName:TBYukinariG
+StyleName:M
+FullName:TBYukinariG-M
+MenuName:TBYukinariG
+StyleBits:0
+FamilyNameNative:TBYukinariG
+StyleNameNative:M
+FullNameNative:TBYukinariG M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariG-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45181
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariG-R
+FamilyName:TBYukinariG
+StyleName:R
+FullName:TBYukinariG-R
+MenuName:TBYukinariG
+StyleBits:0
+FamilyNameNative:TBYukinariG
+StyleNameNative:R
+FullNameNative:TBYukinariG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45183
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariG-hv
+FamilyName:TBYukinariG
+StyleName:hv
+FullName:TBYukinariG-hv
+MenuName:TBYukinariG
+StyleBits:0
+FamilyNameNative:TBYukinariG
+StyleNameNative:hv
+FullNameNative:TBYukinariG hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariG-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45119
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariM-DE
+FamilyName:TBYukinariM
+StyleName:DE
+FullName:TBYukinariM-DE
+MenuName:TBYukinariM
+StyleBits:0
+FamilyNameNative:TBYukinariM
+StyleNameNative:DE
+FullNameNative:TBYukinariM DE
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariM-DE
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45145
+FileModTime:1426545258
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariM-E
+FamilyName:TBYukinariM
+StyleName:E
+FullName:TBYukinariM-E
+MenuName:TBYukinariM
+StyleBits:0
+FamilyNameNative:TBYukinariM
+StyleNameNative:E
+FullNameNative:TBYukinariM E
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariM-E
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45133
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariM-M
+FamilyName:TBYukinariM
+StyleName:M
+FullName:TBYukinariM-M
+MenuName:TBYukinariM
+StyleBits:0
+FamilyNameNative:TBYukinariM
+StyleNameNative:M
+FullNameNative:TBYukinariM M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariM-M
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45128
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariM-hv
+FamilyName:TBYukinariM
+StyleName:hv
+FullName:TBYukinariM-hv
+MenuName:TBYukinariM
+StyleBits:0
+FamilyNameNative:TBYukinariM
+StyleNameNative:hv
+FullNameNative:TBYukinariM hv
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariM-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45131
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TBYukinariRG-R
+FamilyName:TBYukinariRG
+StyleName:R
+FullName:TBYukinariRG-R
+MenuName:TBYukinariRG
+StyleBits:0
+FamilyNameNative:TBYukinariRG
+StyleNameNative:R
+FullNameNative:TBYukinariRG R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TBYukinariRG-R
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45142
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Taipei
+FamilyName:Taipei
+FullName:Taipei
+MenuName:Taipei
+StyleBits:0
+FamilyNameNative:Taipei
+StyleNameNative:
+FullNameNative:Taipei 
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\Taipei
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3549
+FileModTime:1426545252
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankG-b
+FamilyName:TypeBank Gothic
+StyleName:Bold
+FullName:TypeBank Gothic Bold
+MenuName:TypeBank Gothic
+StyleBits:0
+FamilyNameNative:TypeBank Gothic
+StyleNameNative:Bold
+FullNameNative:TypeBank Gothic Bold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankG-b
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111786
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankG-db
+FamilyName:TypeBank Gothic
+StyleName:Demibold
+FullName:TypeBank Gothic Demibold
+MenuName:TypeBank Gothic
+StyleBits:0
+FamilyNameNative:TypeBank Gothic
+StyleNameNative:Demibold
+FullNameNative:TypeBank Gothic Demibold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankG-db
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111788
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankG-e
+FamilyName:TypeBank Gothic
+StyleName:Extrabold
+FullName:TypeBank Gothic Extrabold
+MenuName:TypeBank Gothic
+StyleBits:0
+FamilyNameNative:TypeBank Gothic
+StyleNameNative:Extrabold
+FullNameNative:TypeBank Gothic Extrabold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankG-e
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111658
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankG-hv
+FamilyName:TypeBank Gothic
+StyleName:Heavy
+FullName:TypeBank Gothic Heavy
+MenuName:TypeBank Gothic
+StyleBits:0
+FamilyNameNative:TypeBank Gothic
+StyleNameNative:Heavy
+FullNameNative:TypeBank Gothic Heavy
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankG-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111681
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankG-m
+FamilyName:TypeBank Gothic
+StyleName:Medium
+FullName:TypeBank Gothic Medium
+MenuName:TypeBank Gothic
+StyleBits:0
+FamilyNameNative:TypeBank Gothic
+StyleNameNative:Medium
+FullNameNative:TypeBank Gothic Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankG-m
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111803
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankG-r
+FamilyName:TypeBank Gothic
+StyleName:Regular
+FullName:TypeBank Gothic Regular
+MenuName:TypeBank Gothic
+StyleBits:0
+FamilyNameNative:TypeBank Gothic
+StyleNameNative:Regular
+FullNameNative:TypeBank Gothic Regular
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankG-r
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111808
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankM-de
+FamilyName:TypeBank Mincho
+StyleName:DemiExtra
+FullName:TypeBank Mincho DemiExtra
+MenuName:TypeBank Mincho
+StyleBits:0
+FamilyNameNative:TypeBank Mincho
+StyleNameNative:DemiExtra
+FullNameNative:TypeBank Mincho DemiExtra
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankM-de
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111694
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankM-e
+FamilyName:TypeBank Mincho
+StyleName:Extrabold
+FullName:TypeBank Mincho Extrabold
+MenuName:TypeBank Mincho
+StyleBits:0
+FamilyNameNative:TypeBank Mincho
+StyleNameNative:Extrabold
+FullNameNative:TypeBank Mincho Extrabold
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankM-e
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111675
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankM-hv
+FamilyName:TypeBank Mincho
+StyleName:Heavy
+FullName:TypeBank Mincho Heavy
+MenuName:TypeBank Mincho
+StyleBits:0
+FamilyNameNative:TypeBank Mincho
+StyleNameNative:Heavy
+FullNameNative:TypeBank Mincho Heavy
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankM-hv
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111670
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankM-m
+FamilyName:TypeBank Mincho
+StyleName:Medium
+FullName:TypeBank Mincho Medium
+MenuName:TypeBank Mincho
+StyleBits:0
+FamilyNameNative:TypeBank Mincho
+StyleNameNative:Medium
+FullNameNative:TypeBank Mincho Medium
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankM-m
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111717
+FileModTime:1426545254
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:TypeBankMaruG-r
+FamilyName:TypeBank Maru Gothic
+StyleName:Regular
+FullName:TypeBank Maru Gothic Regular
+MenuName:TypeBank Maru Gothic
+StyleBits:0
+FamilyNameNative:TypeBank Maru Gothic
+StyleNameNative:Regular
+FullNameNative:TypeBank Maru Gothic Regular
+WritingScript:Japanese
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\Resource\CIDFont\\TypeBankMaruG-r
+DataFormat:Plain
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:111778
+FileModTime:1426545256
+DesignSize:-1
+%EndFont
+

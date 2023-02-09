@@ -1,0 +1,466 @@
+%!Adobe-FontList 1.23
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:CGBM-PropRoman
+FamilyName:CGB
+StyleName:M Proportional Roman
+FullName:CGBM Proportional Roman
+MenuName:CGBM Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\CGBM-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:32283
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChuGothicBBB-Medium-PropRoman
+FamilyName:Chu Gothic BBB
+StyleName:Medium Proportional Roman
+FullName:Chu Gothic BBB Medium Proportional Roman
+MenuName:Chu Gothic BBB Medium Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\ChuGothicBBB-Medium-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:38481
+FileModTime:1646254598
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FutoMinA101-Bold-PropRoman
+FamilyName:Futo Min A 101
+StyleName:Bold Prop Roman
+FullName:PCCentury Old Style Regular
+MenuName:PCCentury Old Style Regular
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\FutoMinA101-Bold-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35163
+FileModTime:1646254598
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HYFix
+FamilyName:Hanyang Systems
+StyleName:Fix
+FullName:Hanyang Systems Fix
+MenuName:Hanyang Systems Fix
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\HYFix
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:8918
+FileModTime:1426545258
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HeiseiKakuGothic-W5-PropRoman
+FamilyName:Heisei Kaku Gothic
+StyleName:W5 Proportional Roman
+FullName:Heisei Kaku Gothic W5 Proportional Roman
+MenuName:Heisei Kaku Gothic W5 Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\HeiseiKakuGothic-W5-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41030
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HeiseiMincho-W3-PropRoman
+FamilyName:Heisei Mincho
+StyleName:W3 Proportional Roman
+FullName:Heisei Mincho W3 Proportional Roman
+MenuName:Heisei Mincho W3 Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\HeiseiMincho-W3-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:54688
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HonMincho-M-PropRoman
+FamilyName:HonMincho
+StyleName:Medium Proportional Roman
+FullName:Hon Mincho Medium Proportional Roman
+MenuName:Hon Mincho Medium Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\HonMincho-M-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:52450
+FileModTime:1646254598
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:JL-PropRoman
+FamilyName:J Roman
+StyleName:L Proportional Roman
+FullName:JL Proportional Roman
+MenuName:JL Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\JL-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37287
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Jun101-Light-PropRoman
+FamilyName:Jun Roman
+StyleName:OneZeroOne Light Proportional Roman
+FullName:Jun OneZeroOne Light Proportional Roman
+MenuName:Jun OneZeroOne Light Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\Jun101-Light-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35920
+FileModTime:1646254598
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MMMA-PropRoman
+FamilyName:MMMA
+StyleName:Prop Roman
+FullName:MMMA PropRoman
+MenuName:MMMA PropRoman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\MMMA-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40256
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MaruGothic-M-PropRoman
+FamilyName:MaruGothic
+StyleName:Medium Proportional Roman
+FullName:Maru Gothic Medium Proportional Roman
+MenuName:Maru Gothic Medium Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\MaruGothic-M-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:54378
+FileModTime:1646254598
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MidashiMin-MA31-PropRoman
+FamilyName:PC Century
+StyleName:Bold
+FullName:PC Century Bold
+MenuName:PC Century Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\MidashiMin-MA31-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40317
+FileModTime:1646254598
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Mincho-PC-Hiragana
+FamilyName:Mincho
+StyleName:PC Hiragana
+FullName:Mincho PC Hiragana
+MenuName:Mincho PC Hiragana
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\Mincho-PC-Hiragana
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93228
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Mincho-PC-Katakana
+FamilyName:Mincho
+StyleName:PC Katakana
+FullName:Mincho PC Katakana
+MenuName:Mincho PC Katakana
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\Mincho-PC-Katakana
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:81584
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\NotDefFont
+FileModTime:1646254598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Osaka-MonoRoman
+FamilyName:Osaka
+StyleName:Monospaced Roman
+FullName:Osaka Monospaced Roman
+MenuName:Osaka Monospaced Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\Osaka-MonoRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36024
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Osaka-PropRoman
+FamilyName:Osaka
+StyleName:Proportional Roman
+FullName:Osaka Proportional Roman
+MenuName:Osaka Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\Osaka-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45263
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RLKL-PropRoman
+FamilyName:R
+StyleName:L KL Proportional Roman
+FullName:RL KL Proportional Roman
+MenuName:RL KL Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\RLKL-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39950
+FileModTime:1646254598
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Ryumin-Light-KL-PropRoman
+FamilyName:Ryumin
+StyleName:Light KL Proportional Roman
+FullName:Ryumin Light KL Proportional Roman
+MenuName:Ryumin Light KL Proportional Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\Ryumin-Light-KL-PropRoman
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:67648
+FileModTime:1646254598
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SMFix
+FamilyName:SoftMagic
+StyleName:Fix
+FullName:SoftMagic Fix
+MenuName:SoftMagic Fix
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\data\psdisk\fonts\\SMFix
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2196
+FileModTime:1426545254
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+

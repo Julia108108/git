@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body style="font-size:14px;
+display:inline-block; border:1px dashed
+#ccc; padding:1ch; margin:1ch;">
+<pre style="font-family:monospace
+!important;">
+ООО СТАРТ
+
+КАССОВЫЙ ЧЕК/ВОЗВРАТ ПРИХОДА
+РН ККТ: 0001714196065473 04.03.2019 15:58
+НОМЕР АВТОМАТА: 10295839
+ЗН ККТ: 00000000381006799466
+СМЕНА: 000005 ЧЕК: 000000089
+
+ФН: 9282000100227249
+Cайт ОФД: www.nalog.ru
+
+Агент: ООО СТАРТ
+ИНН агента: 7704374580
+Адрес агента: г.Москва, ул. Поварская,
+д.31/29, пом.VI, комн.13, Офис
+
+Поставщик: ООО "ДИВАН.РУ"
+ИНН: 7725277348
+Возврат по заказу: 110610-54988
+Возвращено на банковскую карту: 7365,00 руб.
+Комиссия: 0,00 руб.
+К возврату: 7365,00 руб.
+
+Сайт поставщика: www.divan.ru
+Эл.почта покупателя: matterfixed@gmail.com
+
+******************************************
+Техническая поддержка: +7 495 660-39-20
+******************************************
+
+ИТОГ: 7365,00 руб.
+
+СНО: ОСН
+ФД:7448 ФП:1345034839</pre>
+
+    <img id="qr"
+src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUwAAAFMAQMAAACaoBccAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACd0lEQVRoge2a4W3rMAyEuYlG8WjyaBpFI3QDPh2Psh28FrUc5EeBU1AncL780TGnI1MzLa0/tZwLL6vvVvfxYmubt/HkvfDdL6HL6HENKp628e6gvVvpuFWEPkAhwECx/x4X7H4zSgARutA3UOz9KO5QoOFvCwmEvotmdZPdUNxC30HzA1HYda8eftHgxz+4i9A7KBfQPR8D5KN8fxoKvYG+LsgQySGjwzeI0Fuo0zUs65qhbGN944TrQh+hhxPj3T3OOIBxyA2zQNqdViz0Q+gUzGa7UeeXIN2lm9B1NC3bDgFwcwtynIYUoZvQZyjrOsAaISMb5ALjFvoIZV17tseVftGytLudliF0AZ1nITWgAijuSMbwDMBCH6GUgJmYpR1tHGy4XJOG0BXUWd2eyc1qdHDtLO2j2xC6gtqs7YjFzv446htW/FraQu+iHJRPMtIDnZhk1HUR+lkU3wKG4kvD1yznv51JQ+giGrhxsJ79RrsMKt1PCYSuoe5Z2xfXThmMIghdRtMykgWJqQPRgpunBEJX0FnZxiYOMmD3t8CKX6cOQu+jCXpYRqUKDG+DL5GLhT5A3acI1bl2okjFsf9Cn6CTvfzQHtOccbtx+vg6ABZ6D3WbnwgKzUZEB8DMuf3oNoR+BLXMxXEWVop1NNL5vRD6BLUpRWV8q7H/nKexkRO6juYm42WGDKbijb4CfzlnxULvo3nF/5CcM58tPcNM6FPU5y9sHDoQDtMo8clLgBa6jMbdgzR2x0hu/Rz8CF1HZ3bAhQqEF0dl+/9qCf0VzSsNY4/m2COW4XizQwChaygXrJgShALOMw7UJRUL/QiqpfVn1j94vcNTSMWiegAAAABJRU5ErkJggg=="
+style="display:block !important; width:50%
+!important; margin:1ch auto !important;"/>
+
+</body>
+</html>
